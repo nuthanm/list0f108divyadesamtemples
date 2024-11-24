@@ -1,6 +1,8 @@
-# 108 Divya Desam
+# List of 108 Divya Desam
 
-# Divya Desam Temples by State
+You can find an information about each temple, including its name and location, along with reference links to Google Maps for easy navigation. The temples are categorized by state, with their respective cities or districts listed.
+
+# Summary of Divya Desam Temples by State
 
 | **State**        | **Number of Temples** |
 |-------------------|-----------------------|
@@ -12,9 +14,9 @@
 | Uttarakhand       | 1                    |
 | Nepal             | 1                    |
 
+# From TamilNadu
 Here is the complete list of 85 Divya Desam temples located in **Tamil Nadu**, grouped by regions:
 
-# From TamilNadu
 ## Chola Nadu Divya Desam Temples (40 Temples)
 
 | **Temple Name**                     | **City/District**      |
@@ -121,7 +123,7 @@ Here is the complete list of 85 Divya Desam temples located in **Tamil Nadu**, g
 | Thirunagari Temple                | Nagapattinam           |
 
 # From Kerla
-## Kerala Divya Desam Temples (13 Temples)
+Here is the complete list of 13 Divya Desam temples located in **Kerla**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
@@ -140,7 +142,7 @@ Here is the complete list of 85 Divya Desam temples located in **Tamil Nadu**, g
 | Thirumandhamkunnu Temple          | Malappuram             |
 
 # From Andra Pradesh
-## Andhra Pradesh Divya Desam Temples (2 Temples)
+Here is the complete list of 13 Divya Desam temples located in **Andhra Pradesh**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
@@ -148,15 +150,14 @@ Here is the complete list of 85 Divya Desam temples located in **Tamil Nadu**, g
 | Ahobilam Narasimha Swamy Temple   | Kurnool                |
 
 # From Karnataka
-## Karnataka Divya Desam Temple (1 Temple)
+Here is the complete list of 13 Divya Desam temples located in **Karnataka**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
 | Srirangapatna Ranganathaswamy Temple | Srirangapatna         |
 
 # From UttarPradesh
-
-## Uttar Pradesh Divya Desam Temples (3 Temples)
+Here is the complete list of 13 Divya Desam temples located in **Uttar Pradesh**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
@@ -165,18 +166,14 @@ Here is the complete list of 85 Divya Desam temples located in **Tamil Nadu**, g
 | Ayodhya Rama Temple               | Ayodhya                |
 
 # From Uttarkand
-
-## Uttarakhand Divya Desam Temple (1 Temple)
+Here is the complete list of 13 Divya Desam temples located in **Uttarakhand**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
 | Badrinath Temple                  | Badrinath             |
 
----
-
-
 # From Nepal
-## Nepal Divya Desam Temple (1 Temple)
+Here is the complete list of 13 Divya Desam temples located in **Nepal**:
 
 | **Temple Name**                   | **City/District**      |
 | Mukthinath Temple                 | Mustang                |
