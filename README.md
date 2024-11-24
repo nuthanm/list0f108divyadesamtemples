@@ -176,6 +176,7 @@ Here is the complete list of 13 Divya Desam temples located in **Uttarakhand**:
 Here is the complete list of 13 Divya Desam temples located in **Nepal**:
 
 | **Temple Name**                   | **City/District**      |
+|-----------------------------------|-------------------------|
 | Mukthinath Temple                 | Mustang                |
 
 # Reference Link(s)
