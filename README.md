@@ -180,7 +180,9 @@ Here is the complete list of 1 Divya Desam temples located in **Nepal**:
 | Mukthinath Temple                 | Mustang                |
 
 # Reference Link(s)
-Update soon
+**From Youtube:** 
+
+[Normad Memories](https://www.youtube.com/playlist?list=PLWd2vtf_pZtOtI7jH1C8U21Dh-2-HQ3XK)
 
 # Google Map state wise
 Update soon
