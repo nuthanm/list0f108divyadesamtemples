@@ -184,5 +184,8 @@ Here is the complete list of 1 Divya Desam temples located in **Nepal**:
 
 [Normad Memories](https://www.youtube.com/playlist?list=PLWd2vtf_pZtOtI7jH1C8U21Dh-2-HQ3XK)
 
+**From different site:**
+
+[Divya Desam](https://www.divyadesam.com/108-divya-desams-srivaishnava-vishnu-temples.php)
 # Google Map state wise
 Update soon
