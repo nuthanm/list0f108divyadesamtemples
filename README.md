@@ -142,7 +142,7 @@ Here is the complete list of 13 Divya Desam temples located in **Kerla**:
 | Thirumandhamkunnu Temple          | Malappuram             |
 
 # From Andra Pradesh
-Here is the complete list of 13 Divya Desam temples located in **Andhra Pradesh**:
+Here is the complete list of 2 Divya Desam temples located in **Andhra Pradesh**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
@@ -150,14 +150,14 @@ Here is the complete list of 13 Divya Desam temples located in **Andhra Pradesh*
 | Ahobilam Narasimha Swamy Temple   | Kurnool                |
 
 # From Karnataka
-Here is the complete list of 13 Divya Desam temples located in **Karnataka**:
+Here is the complete list of 1 Divya Desam temples located in **Karnataka**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
 | Srirangapatna Ranganathaswamy Temple | Srirangapatna         |
 
 # From UttarPradesh
-Here is the complete list of 13 Divya Desam temples located in **Uttar Pradesh**:
+Here is the complete list of 3 Divya Desam temples located in **Uttar Pradesh**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
@@ -166,14 +166,14 @@ Here is the complete list of 13 Divya Desam temples located in **Uttar Pradesh**
 | Ayodhya Rama Temple               | Ayodhya                |
 
 # From Uttarkand
-Here is the complete list of 13 Divya Desam temples located in **Uttarakhand**:
+Here is the complete list of 1 Divya Desam temples located in **Uttarakhand**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
 | Badrinath Temple                  | Badrinath             |
 
 # From Nepal
-Here is the complete list of 13 Divya Desam temples located in **Nepal**:
+Here is the complete list of 1 Divya Desam temples located in **Nepal**:
 
 | **Temple Name**                   | **City/District**      |
 |-----------------------------------|-------------------------|
